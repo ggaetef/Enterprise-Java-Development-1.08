@@ -7,4 +7,5 @@ public interface IntList {
 
     void add (int item);
     int get (int id);
+   // int delete(int id);
 }
